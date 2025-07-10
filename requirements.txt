@@ -24,3 +24,5 @@ uvicorn
 langserve
 sse_starlette
 langgraph-cli[inmen]
+streamlit
+langgraph
