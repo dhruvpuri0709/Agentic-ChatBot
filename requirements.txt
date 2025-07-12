@@ -26,3 +26,4 @@ sse_starlette
 langgraph-cli[inmen]
 streamlit
 langgraph
+tavily-python
