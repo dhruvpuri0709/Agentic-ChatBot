@@ -7,7 +7,6 @@ Please Note - Use deepSeek model from the given list for best results. I have no
 Use the following API keys for the LLM and web search fucntionaliy.
 
 <p> GROQ_API_KEY = "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" </p>
-<br/>
 <p>TAVILY_API_KEY = "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" </p>
 
 <h2> The interface - </h2>
